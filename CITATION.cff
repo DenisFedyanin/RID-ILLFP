@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "spq: Model checker for Semi-Public Queries logic"
+message: >-
+  If you use this software, please cite both this implementation and the paper
+  it accompanies.
+type: software
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/REPLACE-ME/spq"
+url: "https://llfp.hse.ru"
+preferred-citation:
+  type: conference-paper
+  title: "Dynamic Epistemic Logic of Resource Bounded Information Mining Agents"
+  authors:
+    - family-names: Dolgorukov
+      given-names: Vitaliy
+      affiliation: "HSE University"
+    - family-names: Galimullin
+      given-names: Rustam
+      affiliation: "University of Bergen"
+    - family-names: Gladyshev
+      given-names: Maksim
+      affiliation: "Utrecht University"
+  collection-title: >-
+    Proceedings of the 23rd International Conference on Autonomous Agents and
+    Multiagent Systems (AAMAS '24)
+  year: 2024
+  publisher:
+    name: "International Foundation for Autonomous Agents and Multiagent Systems"
+  start: 481
+  end: 489
+  url: "https://arxiv.org/abs/2401.13369"
